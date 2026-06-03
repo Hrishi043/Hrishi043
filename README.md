@@ -87,15 +87,15 @@ A web-based security assessment tool for identifying vulnerabilities and generat
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hrishi043&show_icons=true&theme=tokyonight">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrishi043&theme=tokyonight">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrishi043&layout=compact&theme=tokyonight">
 </p>
 
 ---
@@ -103,16 +103,14 @@ A web-based security assessment tool for identifying vulnerabilities and generat
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hrishi043&theme=tokyonight">
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](YOUR_GITHUB_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hrishikeshps1/)
 
 📧 Email: hrishikeshps24@gmail.com
 
