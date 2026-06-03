@@ -1,24 +1,125 @@
-#   About Me:
-B.Sc. CS Graduate | MCA Student I am currently pursuing my MCA course at Mar Athanasius College of Engineering, Kothamangalam.
+<h1 align="center">Hi 👋, I'm Hrishikesh P S</h1>
+<h3 align="center">MCA Student | Machine Learning Enthusiast | Cybersecurity Learner | Open Source Explorer</h3>
 
-
-##  Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hrixz__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hrishikesh-p-s-7375922bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hrishikeshps24@gmail.com) 
-
-#   Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
-#  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hrishi043&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Hrishi043&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hrishi043&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-##  GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Hrishi043&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-###  Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Hrishi043&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=MCA+Student;Machine+Learning+Developer;NLP+Enthusiast;Cybersecurity+Learner;Data+Science+Explorer&center=true&width=500&height=50">
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Hrishi043&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+🎓 MCA Student
+
+💻 Passionate about Machine Learning, Data Science, NLP, Cybersecurity, and Software Development
+
+🌱 Currently Learning:
+- Natural Language Processing (NLP)
+- Machine Learning
+- Data Science
+- Vulnerability Assessment & Security Testing
+- Full Stack Development
+
+🔭 Currently Working On:
+- Fake News Detection using NLP & Machine Learning
+- Web-based Vulnerability Scanner
+- Data Analytics Projects
+
+🎯 Goal:
+To become a skilled AI/ML Engineer and Cybersecurity Professional.
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### Data Science & Machine Learning
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+### Web Development
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+## 📂 Featured Projects
+
+### 📰 Fake News Detection System
+Machine Learning and NLP-based system that classifies news articles as Real or Fake using TF-IDF Vectorization and Logistic Regression.
+
+**Tech Used:**
+- Python
+- Scikit-learn
+- Pandas
+- NLP
+- Streamlit
+
+---
+
+### 🔍 Web Vulnerability Scanner
+A web-based security assessment tool for identifying vulnerabilities and generating reports.
+
+**Features:**
+- Port Scanning
+- Vulnerability Detection
+- Report Generation
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight">
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight">
+</p>
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](YOUR_GITHUB_URL)
+
+📧 Email: hrishikeshps24@gmail.com
+
+---
+
+## 💡 Quote
+
+"Learning never exhausts the mind. Every project is another step toward mastery."
+
+⭐ Thanks for visiting my profile!
