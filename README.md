@@ -158,14 +158,8 @@ Current Status: Building, Learning, Improving 🚀
 ---
 
 ## 🐍 Contribution Snake
-
 <div align="center">
-
-```yaml
-# Generated weekly via GitHub Actions to reflect calendar actions:
-```
-![snake gif](https://raw.githubusercontent.com/Hrishi043/Hrishi043/output/github-contribution-grid-snake.svg)
-
+  <img src="https://raw.githubusercontent.com/Hrishi043/Hrishi043/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 ---
