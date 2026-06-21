@@ -161,7 +161,6 @@ Current Status: Building, Learning, Improving 🚀
 <p align="center">
   <img src="https://github.com/Hrishi043/Hrishi043/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake animation" />
 </p>
-
 ---
 
 ## 🎯 2026 Goals
