@@ -156,12 +156,12 @@ Current Status: Building, Learning, Improving 🚀
 </div>
 
 ---
-<h2 align="center">🟩 GitHub Contribution Heatmap</h2>
+<div align="center">
+### 🟩 Contribution Heatmap
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/39d353/Hrishi043" alt="GitHub Contribution Chart" />
-</p>
+<img src="https://ghchart.rshah.org/39d353/Hrishi043" alt="GitHub Contributions"/>
 
+</div>
 ## 🎯 2026 Goals
 
 *   [x] **Build and deploy LifeLog AI** (Release MVP)
