@@ -157,8 +157,9 @@ Current Status: Building, Learning, Improving 🚀
 
 ---
 ## 🟩 Contribution Heatmap
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hrishi043&theme=github_dark" />
+  <img src="https://github-contribution-stats.vercel.app/api/?username=Hrishi043" />
 </p>
 ---
 ## 🎯 2026 Goals
