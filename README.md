@@ -156,10 +156,10 @@ Current Status: Building, Learning, Improving 🚀
 </div>
 
 ---
-## 🟩 Contribution Heatmap
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=Hrishi043" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hrishi043&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&hide_border=true" />
 </p>
 ---
 ## 🎯 2026 Goals
