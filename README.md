@@ -156,13 +156,10 @@ Current Status: Building, Learning, Improving 🚀
 </div>
 
 ---
-
-## 📈 Contribution Graph
-
+# Contribution Chart
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hrishi043&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hrishi043&theme=github-dark&hide_border=true" />
 </p>
-
 
 ## 🎯 2026 Goals
 
