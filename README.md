@@ -157,7 +157,8 @@ Current Status: Building, Learning, Improving 🚀
 
 ---
 <div align="center">
-### 🟩 Contribution Heatmap
+
+🟩 Contribution Heatmap
 
 <img src="https://ghchart.rshah.org/39d353/Hrishi043" alt="GitHub Contributions"/>
 
