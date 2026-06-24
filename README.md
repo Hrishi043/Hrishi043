@@ -158,7 +158,7 @@ Current Status: Building, Learning, Improving 🚀
 ---
 # Contribution Chart
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hrishi043&theme=github-dark&hide_border=true" />
+  <img src="https://ghchart.rshah.org/39d353/Hrishi043" alt="GitHub Contribution Chart">
 </p>
 
 ## 🎯 2026 Goals
