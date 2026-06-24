@@ -119,7 +119,7 @@ Current Status: Building, Learning, Improving 🚀
 
 ## 🌟 Featured Projects
 
-### 📔 [LifeLog AI](https://github.com/Hrishi043/Lifelog-Ai-Source)
+### 📔 [LifeLog AI](https://github.com/Hrishi043/Lifelog-Ai)
 > **AI-Reflective Journal & Memory Assistant**
 *   **Stack:** Flutter, Riverpod, SQLite (`sqflite`), Google Generative AI (Gemini), OpenAI API.
 *   **Key Feature:** Synthesizes random text/photo/audio daily events into cohesive diaries and answers memory queries.
@@ -157,10 +157,10 @@ Current Status: Building, Learning, Improving 🚀
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hrishi043&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hrishi043&theme=react-dark" />
 </p>
 
 
