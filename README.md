@@ -98,8 +98,8 @@ Current Status: Building, Learning, Improving 🚀
 
 ### 💻 Active Projects
 *   📔 **[LifeLog AI](https://github.com/Hrishi043/Lifelog-Ai-Source)** — Dynamic, privacy-first diary powered by LLMs (Gemini/GPT) and local SQLite.
-*   📰 **Fake News Detection** — NLP classifications using Scikit-Learn.
-*   🔍 **Web Vulnerability Scanner** — Scripting penetration utilities for OWASP top-10 audits.
+*   📰 **[Fake News Detection](https://github.com/Hrishi043/Fake-News-Detection-Using-Machine-Learning)** — NLP classifications using Scikit-Learn.
+*   🔍 **[Secure Scan AI](https://github.com/Hrishi043/SecureScan-AI)** — Scripting penetration utilities for OWASP top-10 audits.
 *   📊 **Analytics Dashboards** — Compiling interactive custom data models.
 
 </td>
@@ -158,7 +158,7 @@ Current Status: Building, Learning, Improving 🚀
 ---
 # Contribution Chart
 <p align="center">
-  <img src="https://ghchart.rshah.org/39d353/Hrishi043" alt="GitHub Contribution Chart">
+  <img src="https://ghchart.rshah.org/0d1117/Hrishi043" alt="GitHub Contribution Chart">
 </p>
 
 ## 🎯 2026 Goals
