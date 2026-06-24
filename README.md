@@ -124,7 +124,7 @@ Current Status: Building, Learning, Improving 🚀
 *   **Stack:** Flutter, Riverpod, SQLite (`sqflite`), Google Generative AI (Gemini), OpenAI API.
 *   **Key Feature:** Synthesizes random text/photo/audio daily events into cohesive diaries and answers memory queries.
 
-### 📰 [Fake News Classifier](https://github.com/Hrishi043)
+### 📰 [Fake News Classifier](https://github.com/Hrishi043/Fake-News-Detection-Using-Machine-Learning)
 > **Natural Language Processing Model**
 *   **Stack:** Python, Scikit-Learn, NLTK, Pandas.
 *   **Key Feature:** Tokenizes and vectorizes news articles to classify factual integrity with machine learning metrics.
@@ -157,15 +157,11 @@ Current Status: Building, Learning, Improving 🚀
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Hrishi043/Hrishi043/blob/output/github-contribution-grid-snake-dark.svg?raw=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Hrishi043/Hrishi043/blob/output/github-contribution-grid-snake.svg?raw=true">
-    <img src="https://github.com/Hrishi043/Hrishi043/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake animation">
-  </picture>
-</p>
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hrishi043&show_icons=true&theme=tokyonight" />
+</p>
 
 
 ## 🎯 2026 Goals
