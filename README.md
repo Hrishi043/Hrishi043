@@ -158,7 +158,7 @@ Current Status: Building, Learning, Improving 🚀
 ---
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="./metrics.svg" alt="Contribution Calendar">
+  <img src="https://raw.githubusercontent.com/Hrishi043/Hrishi043/main/metrics.svg" alt="Contribution Calendar">
 </p>
 ---
 ## 🎯 2026 Goals
